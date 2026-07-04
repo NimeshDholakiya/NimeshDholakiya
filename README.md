@@ -63,14 +63,43 @@
 
 ### 📌 Featured Projects
 
-<!--
-Replace these with your real pinned repos once you push them.
-Format: [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=NimeshDholakiya&repo=REPO_NAME&theme=radical&hide_border=true)](https://github.com/NimeshDholakiya/REPO_NAME)
--->
+**Enterprise Projects at Vagaro Technologies**
 
-- 🔹 **[Project Name](#)** — one-line description of what it does and the impact/result
-- 🔹 **[Project Name](#)** — one-line description of what it does and the impact/result
-- 🔹 **[Project Name](#)** — one-line description of what it does and the impact/result
+- ✅ **[Vagaro React Toolkit](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
+  Dynamic React UI component library enabling developers to create and customize UI elements (buttons, inputs, sliders, dropdowns, color pickers, tables) with auto-generated code across multiple phases.
+
+- ✅ **[Inventory - Options, Variants & Additional Details](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
+  Fully revamped inventory module in React competing with Shopify — supporting product variants (size/color), additional details, redesigned product pages with unique URLs, and Meta product catalogue syncing.
+
+- ✅ **[Inventory - Phase 2: Bundles & Media](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
+  Enhanced inventory variant functionality including reordering variant images, product bundles with multiple quantities, video support, and variant import capabilities.
+
+- ✅ **[Auto Populate Inventory (Salon Centric)](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
+  Streamlined inventory onboarding using product catalogue and barcode/QR scanning to auto-populate product details, reducing manual entry errors for businesses.
+
+- ✅ **[REACT Settings - Inventory Vendors](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
+  Migrated legacy .NET-based Vendors page to modern React front-end under Settings > Inventory, preserving all CRUD functionality with responsive design and accessibility compliance.
+
+- ✅ **[Custom Fields](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
+  Enabled businesses to create custom fields and templates to track customer information not available by default, supporting underrepresented industries on Vagaro platform.
+
+- 🔄 **[Custom Fields - Phase 2](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)  
+  Extended Custom Fields with formula dependencies, trend popups, mobile design updates, print/export options, and enhanced UX for customer profiles.
+
+- 🔄 **[SOAP Notes Trackable Products - Phase 2](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)  
+  Enhanced SOAP Notes for MedSpa businesses to mark treatment areas, assign products, and enable seamless inventory deduction at checkout with photo markup and mobile support.
+
+- ✅ **[Units, Partial Use & Assign Products to Services](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
+  Built system for businesses to track service-use products per unit of measurement, with automatic inventory updates upon checkout and accurate reporting.
+
+- ✅ **[Onboarding Wizard](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
+  Simplified business sign-up flow encouraging users to complete profiles (hours, policies, amenities, logos, photos) and schedule onboarding specialist consultations.
+
+- ✅ **[Onboarding Wizard - Phase 2](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
+  Delivered change requests including dark mode fixes, mobile UI updates, progress bar improvements, and booking widget consistency.
+
+- 📧 **[Email Marketing](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Active-blue?style=flat-square)  
+  Core email marketing features enabling businesses to create, schedule, and track email campaigns with customer segmentation and analytics.
 
 ---
 
