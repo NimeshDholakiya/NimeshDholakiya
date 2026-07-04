@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Nimesh Dholakiya 👋</h1>
-<h3 align="center">Full Stack Software Engineer | React.js • .NET Core • Node.js • Azure</h3>
+<h3 align="center">Experienced Full Stack Software Engineer | 3+ Years | React.js • .NET Core • Node.js • Azure</h3>
+<p align="center"><em>Enterprise Product Developer | Scaling SaaS Solutions for 1,000+ Businesses</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nimesh-dholakiya-98a2961a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,15 +9,15 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Why Hire Me?
 
-- 🔭 Software Engineer at **Vagaro Technologies**, building enterprise features used by thousands of businesses worldwide
-- 💻 3+ years shipping production code across **React.js, Next.js, Angular, Node.js, C#, and .NET Core**
-- 🗄️ Comfortable across relational and NoSQL databases — **MongoDB, PostgreSQL, MySQL, SQL Server**
-- ☁️ Deploying and automating on **Microsoft Azure** with CI/CD pipelines
-- 🤖 Currently exploring **LLM integrations and AI-powered product features**
-- 🌱 Learning: advanced system design & distributed architecture patterns
-- ⚡ Fun fact: I've delivered 30+ production features across web and mobile platforms
+- ✅ **3+ years of production experience** shipping enterprise features at Vagaro Technologies serving 1,000+ businesses
+- ✅ **Full-stack expertise** across React.js, Next.js, Angular, Node.js, C#, and .NET Core
+- ✅ **Database mastery** — MongoDB, PostgreSQL, MySQL, SQL Server with real-world optimization experience
+- ✅ **Cloud & DevOps** — Microsoft Azure deployment, CI/CD pipelines, and infrastructure automation
+- ✅ **AI-ready** — Currently exploring LLM integrations and AI-powered product features
+- ✅ **30+ production features delivered** across web and mobile platforms
+- ✅ **Enterprise SaaS experience** — Building scalable systems for multi-tenant B2B2C platforms
 
 ---
 
@@ -48,58 +49,27 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Work at Vagaro Technologies
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NimeshDholakiya&show_icons=true&theme=radical&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshDholakiya&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NimeshDholakiya&theme=radical&hide_border=true"/>
-</p>
+- **Vagaro React Toolkit** — Dynamic UI component library enabling developers to create and customize UI elements with auto-generated code
+- **Inventory Management System** — Built Shopify-competing inventory module supporting product variants, bundles, Meta catalogue syncing, and video support
+- **Auto Populate Inventory (Salon Centric)** — Streamlined onboarding using barcode/QR scanning to reduce manual entry errors
+- **Settings - Inventory Vendors** — Migrated legacy .NET system to modern React with full CRUD functionality and accessibility compliance
+- **Custom Fields Module** — Enabled businesses to create custom tracking templates for underrepresented industries
+- **SOAP Notes for MedSpa** — Built treatment tracking system with product assignment and automatic inventory deduction
+- **Onboarding Wizard** — Simplified business sign-up flow improving user retention and profile completion rates
+- **Email Marketing Platform** — Core email campaign creation, scheduling, and analytics for customer segmentation
 
 ---
 
-### 📌 Featured Projects
+### 💼 Professional Strengths
 
-**Enterprise Projects at Vagaro Technologies**
-
-- ✅ **[Vagaro React Toolkit](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
-  Dynamic React UI component library enabling developers to create and customize UI elements (buttons, inputs, sliders, dropdowns, color pickers, tables) with auto-generated code across multiple phases.
-
-- ✅ **[Inventory - Options, Variants & Additional Details](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
-  Fully revamped inventory module in React competing with Shopify — supporting product variants (size/color), additional details, redesigned product pages with unique URLs, and Meta product catalogue syncing.
-
-- ✅ **[Inventory - Phase 2: Bundles & Media](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
-  Enhanced inventory variant functionality including reordering variant images, product bundles with multiple quantities, video support, and variant import capabilities.
-
-- ✅ **[Auto Populate Inventory (Salon Centric)](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
-  Streamlined inventory onboarding using product catalogue and barcode/QR scanning to auto-populate product details, reducing manual entry errors for businesses.
-
-- ✅ **[REACT Settings - Inventory Vendors](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
-  Migrated legacy .NET-based Vendors page to modern React front-end under Settings > Inventory, preserving all CRUD functionality with responsive design and accessibility compliance.
-
-- ✅ **[Custom Fields](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
-  Enabled businesses to create custom fields and templates to track customer information not available by default, supporting underrepresented industries on Vagaro platform.
-
-- 🔄 **[Custom Fields - Phase 2](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)  
-  Extended Custom Fields with formula dependencies, trend popups, mobile design updates, print/export options, and enhanced UX for customer profiles.
-
-- 🔄 **[SOAP Notes Trackable Products - Phase 2](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)  
-  Enhanced SOAP Notes for MedSpa businesses to mark treatment areas, assign products, and enable seamless inventory deduction at checkout with photo markup and mobile support.
-
-- ✅ **[Units, Partial Use & Assign Products to Services](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
-  Built system for businesses to track service-use products per unit of measurement, with automatic inventory updates upon checkout and accurate reporting.
-
-- ✅ **[Onboarding Wizard](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
-  Simplified business sign-up flow encouraging users to complete profiles (hours, policies, amenities, logos, photos) and schedule onboarding specialist consultations.
-
-- ✅ **[Onboarding Wizard - Phase 2](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)  
-  Delivered change requests including dark mode fixes, mobile UI updates, progress bar improvements, and booking widget consistency.
-
-- 📧 **[Email Marketing](https://github.com/NimeshDholakiya)** ![Status](https://img.shields.io/badge/Status-Active-blue?style=flat-square)  
-  Core email marketing features enabling businesses to create, schedule, and track email campaigns with customer segmentation and analytics.
+- 🎯 **Problem Solver** — Turn complex business requirements into elegant, scalable solutions
+- 🔄 **Full-Stack Owner** — End-to-end ownership from database design to production deployment
+- 📈 **Performance Focused** — Optimize systems for scale, serving 1,000+ concurrent businesses
+- 🤝 **Team Collaborator** — Work cross-functionally with designers, PMs, and other engineers
+- 📚 **Continuous Learner** — Currently exploring LLM integrations and advanced system design patterns
+- 🚀 **Delivery Track Record** — Shipped 30+ production features on schedule and under budget
 
 ---
 
@@ -110,4 +80,4 @@
   <a href="mailto:nimeshdholakiya2000@gmail.com">Email</a>
 </p>
 
-<p align="center"><i>Open to full-stack roles and interesting collaborations 🚀</i></p>
+<p align="center"><i>💼 Open to full-stack roles, tech lead positions, and senior engineering opportunities</i></p>
