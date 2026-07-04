@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nimesh-dholakiya-98a2961a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dholakiyanimesh57@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nimeshdholakiya2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -78,7 +78,7 @@ Format: [![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Nimesh
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nimesh-dholakiya-98a2961a1/">LinkedIn</a> •
-  <a href="mailto:dholakiyanimesh57@gmail.com">Email</a>
+  <a href="mailto:nimeshdholakiya2000@gmail.com">Email</a>
 </p>
 
 <p align="center"><i>Open to full-stack roles and interesting collaborations 🚀</i></p>
